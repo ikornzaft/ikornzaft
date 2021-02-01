@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Banner for Ignacio Kornzaft](https://github.com/ikornzaft/ikornzaft/blob/main/img/banner.png)]]
 <!--
 **ikornzaft/ikornzaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
